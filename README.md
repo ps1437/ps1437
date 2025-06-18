@@ -5,6 +5,9 @@
 🔧 Passionate about building scalable, reliable, and high-performance backend systems using **Java (8–17)**, **Spring Boot**, **Microservices**, **Kafka**, **MongoDB**, and **SQL**.  
 🎯 Focused on writing clean, maintainable code and solving real-world problems with elegant system designs.
 
+🌐 **Portfolio:** [www.syscho.in](https://www.syscho.in/)  
+📄 **Resume:** [Download Resume (PDF)](https://github.com/ps1437/interview-preparations/blob/main/Praveen_soni_resume_Java_Dev_10_year.pdf)
+
 ---
 
 ## 👨‍💻 Tech Stack
@@ -24,7 +27,6 @@
 - Java Concurrency and Reactive Programming
 - Event-driven and Real-time Systems
 - Building scalable distributed systems
-- OSS contribution
 
 ---
 
@@ -38,20 +40,12 @@
 
 ---
 
-## 🧙 Favorite Anime Quote
-
-> _"A lesson without pain is meaningless. That’s because you can’t gain something without sacrificing something else."_  
-> — **Edward Elric**, *Fullmetal Alchemist: Brotherhood*
-
-🧠 Just like mastering Java and system design — the errors are the real teachers.
-
----
-
 ## 📫 Let's Connect!
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/praveensoni1437)
-- 🗂️ [Resume](#) <!-- Add link if hosted -->
-- 💌 Drop a message or collaborate on interesting backend and system design projects!
+- 🌍 [Portfolio Website](https://www.syscho.in/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/praveen-soni-dev)
+- 📄 [Resume (PDF)](https://github.com/ps1437/interview-preparations/blob/main/Praveen_soni_resume_Java_Dev_10_year.pdf)
+- 🧩 [LeetCode](https://leetcode.com/u/praveen369soni/)
 
 ---
 
