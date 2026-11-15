@@ -1,8 +1,7 @@
 # Hi there 👋 I'm Praveen Soni
 
 🚀 **Software Engineer | Java Backend Developer | System Design Enthusiast**
-[
-👉 https://roommates-gasoline-sustainable-proven.trycloudflare.com](https://zerodha-agent-bot-1.onrender.com/?auth=success)
+https://zerodha-agent-bot-1.onrender.com/?auth=success
 
 🔧 Passionate about building scalable, reliable, and high-performance backend systems using **Java (8–17)**, **Spring Boot**, **Microservices**, **Kafka**, **MongoDB**, and **SQL**.  
 🎯 Focused on writing clean, maintainable code and solving real-world problems with elegant system designs.
